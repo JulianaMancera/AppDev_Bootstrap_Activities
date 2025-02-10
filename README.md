@@ -1,1 +1,1 @@
-# AppDev_Bootstrap_Act1
+# AppDev_Bootstrap_Activities
