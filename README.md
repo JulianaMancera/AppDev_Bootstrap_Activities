@@ -53,7 +53,7 @@ If your activities are stored in folders like `Activity #1`, `Activity #2`, etc.
 
 ## Expected Output
 
-If you successfully run the Bootstrap Activity Compilation, you should see an output similar to this:
+If you successfully run the Bootstrap Activity Compilation, you should see an output similar to this: <br> <br>
 ![alt text](image-1.png)
 
 ## Troubleshooting
